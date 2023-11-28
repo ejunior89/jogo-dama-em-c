@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/jogo_damas.dir/main.c.o CMakeFiles/jogo_damas.dir/tabuleiro.c.o CMakeFiles/jogo_damas.dir/peca.c.o -o jogo_damas 

@@ -1,0 +1,3 @@
+/home/eliomaiajunior/Documentos/dama-jogo/build/CMakeFiles/jogo_damas.dir
+/home/eliomaiajunior/Documentos/dama-jogo/build/CMakeFiles/edit_cache.dir
+/home/eliomaiajunior/Documentos/dama-jogo/build/CMakeFiles/rebuild_cache.dir
